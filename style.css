@@ -1,0 +1,51 @@
+body
+{
+    background-size: cover;
+}
+.copyright-footer
+{
+    bottom:-1mm;
+    position:fixed;
+    background-color:firebrick;
+    color:royalblue;
+    border-style:double;
+    line-height:3;
+    text-align:center;
+    width:100%;
+    border-radius: 10px;
+    border-width: 2px;
+}
+canvas
+{
+    border:5px double rebeccapurple;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading
+{
+    width:100%;
+    text-align:left;
+}
+.heading h3
+{
+    display:inline;
+}
+.heading button
+{
+    float:right;
+    border: double greenyellow 3px;
+}
+h4
+{
+    line-height: 5px;
+    background-color:white;
+    margin:0px;
+}
+.modal-dialog
+{
+    width:90%;
+}
+.modal-header, h4
+{
+    font-size: xx-large;
+}
